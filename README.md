@@ -19,7 +19,3 @@ Login UI Screeshot
 
 ![login](https://user-images.githubusercontent.com/74393555/99038985-52463b80-25a8-11eb-8d0d-c58c930e85e3.png)
 
-SignUp UI Screenshot
-
-
-![signup](https://user-images.githubusercontent.com/74393555/99156368-2f1fa700-26e2-11eb-8cee-f988c305479c.png)
